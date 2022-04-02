@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mon",
+				"month_days"
+			],
+			[
+				"bi",
+				"bid_winner"
+			],
+			[
+				"bid",
+				"bid_winner"
+			],
+			[
+				"bidd",
+				"bidding_status"
+			],
+			[
+				"st",
+				"student_scores"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"hang",
+				"hangman_art"
+			],
+			[
+				"ch",
+				"chosen_word"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"pas",
+				"password_characters"
+			],
+			[
+				"passw",
+				"password_characters"
+			],
+			[
+				"pa",
+				"password_numbers"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"nr",
+				"nr_numbers"
+			],
+			[
+				"s",
+				"student_scores"
+			],
+			[
+				"student",
+				"student_count"
+			],
+			[
+				"stud",
+				"student_heights"
+			],
+			[
+				"step",
+				"step_two"
+			],
+			[
+				"lov",
+				"love_score"
+			],
+			[
+				"name",
+				"name2"
+			],
+			[
+				"ex",
+				"extra_cheese"
+			],
+			[
+				"pet",
+				"pet_name"
+			],
+			[
+				"a",
+				"account_id"
+			],
+			[
+				"tota",
+				"total_amt_usd"
+			],
+			[
+				"to",
+				"total_amt_usd"
+			],
+			[
+				"acc",
+				"account_id"
+			],
+			[
+				"sa",
+				"sales_rep"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"ce",
+				"center"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/viren/Desktop/100DaysOfCode"
+	],
+	"file_history":
+	[
+		"/Users/viren/Desktop/100DaysOfCode/Day9/day-9-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day9/day-9-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day9/day-9-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day9/art.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day8/art.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day8/day-8-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day7/day-7-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day7/day-7-task-3.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day7/day-7-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day7/hangman_art.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day7/hangman_word_list.py",
+		"/Users/viren/Desktop/OfferFree.json",
+		"/Users/viren/Desktop/offer.json",
+		"/Users/viren/Desktop/BB.json",
+		"/Users/viren/Desktop/100DaysOfCode/Day6/day-6-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day6/day-6-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day5/day-5-task-4.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day5/day-5-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day5/day-5-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day5/day-5-task-3.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day5/day-5-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day4/day-4-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day4/day-4-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day4/day-4-task-3.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day3/day-3-task-5.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day4/day-4-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day2/day-2-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day3/day-3-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day3/day-3-task-4.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day3/day-3-task-3.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day3/day-3-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day3/day-3-task-1.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day2/bottom-bar.json",
+		"/Users/viren/Desktop/100DaysOfCode/Day2/day-2-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day2/day-2-task-3.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day2/day-2-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day1/day-1-task-3.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day1/day-1-task-4.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day1/day-1-task-2.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day1/day-1-task-1.py",
+		"/Users/viren/Desktop/!00DaysOfCode/Day1/day-1-task-1.py",
+		"/Users/viren/Desktop/ReferralHistory.json",
+		"/Users/viren/Desktop/Sample.html",
+		"/Users/viren/Desktop/offer Details.json",
+		"/Users/viren/Desktop/sample.json",
+		"/Users/viren/Downloads/main.sql",
+		"/Users/viren/Desktop/a.json",
+		"/Users/viren/Desktop/Practice.sql",
+		"/Users/viren/Desktop/offers.json",
+		"/Users/viren/Downloads/Sync Free Website Template - Free-CSS.com/web/images/logo.svg",
+		"/Users/viren/Downloads/Sync Free Website Template - Free-CSS.com/web/index.html",
+		"/Users/viren/Downloads/Sync Free Website Template - Free-CSS.com/web/css/styles.css",
+		"/Users/viren/Desktop/metadeta.json",
+		"/Users/viren/Desktop/entertainment.json",
+		"/Users/viren/Desktop/virenkanjani.com/virenkanjani.com/Wallet.json",
+		"/Users/viren/Desktop/virenkanjani.com/virenkanjani.com/index.html",
+		"/Users/viren/Desktop/Bottombar.json",
+		"/Users/viren/Desktop/virenkanjani.com/virenkanjani.com/css/owl.carousel.min.css",
+		"/Users/viren/Desktop/virenkanjani.com 2/virenkanjani.com/index.html",
+		"/Users/viren/Desktop/clark-master 2/index copy.html",
+		"/Users/viren/Desktop/clark-master/index.html",
+		"/Users/viren/Desktop/Gamezop.html",
+		"/Users/viren/Desktop/List.html",
+		"/Users/viren/Desktop/Emailers/Welcome Referred.html",
+		"/Users/viren/Desktop/Emailers/Welcome Non-Referred.html",
+		"/Users/viren/Desktop/Emailers/Weekly Earnings.html",
+		"/Users/viren/Desktop/Emailers/Wallet Summary.html",
+		"/Users/viren/Desktop/Emailers/Successful Referral.html",
+		"/Users/viren/Desktop/Emailers/desktop.html",
+		"/Users/viren/Desktop/Emailers/Paytm Transfer.html",
+		"/Users/viren/Desktop/Emailers/Referral_Bonus.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "100DaysOfCode.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Practice.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

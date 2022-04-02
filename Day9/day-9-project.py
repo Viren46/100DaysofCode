@@ -21,8 +21,3 @@ while bidding is True:
 				bid_winner = bid
 				max_amount = bidders[bid]
 		print(f"The winner of the bid is {bid_winner} with a amount of Rs{max_amount}")
-
-
-
-
-
