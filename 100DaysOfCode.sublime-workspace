@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"oper",
+				"operations"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"d",
+				"divide"
+			],
+			[
+				"m",
+				"multiply"
+			],
+			[
 				"mon",
 				"month_days"
 			],
@@ -188,10 +204,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/viren/Desktop/100DaysOfCode"
+		"/Users/viren/Desktop/100DaysOfCode",
+		"/Users/viren/Desktop/100DaysOfCode/Day10"
 	],
 	"file_history":
 	[
+		"/Users/viren/Desktop/100DaysOfCode/Day10/day-10-project.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day10/day-10-task-1.py",
+		"/Users/viren/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/Users/viren/Desktop/100DaysOfCode/Day9/day-9-project.py",
 		"/Users/viren/Desktop/100DaysOfCode/Day9/day-9-task-1.py",
 		"/Users/viren/Desktop/100DaysOfCode/Day9/day-9-task-2.py",
@@ -266,7 +286,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
