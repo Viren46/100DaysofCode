@@ -4,16 +4,40 @@
 		"selected_items":
 		[
 			[
+				"dealer",
+				"dealer_score"
+			],
+			[
+				"de",
+				"dealer_score"
+			],
+			[
+				"game",
+				"game_end"
+			],
+			[
+				"dea",
+				"deal_card"
+			],
+			[
+				"d",
+				"dealers_cards"
+			],
+			[
+				"you",
+				"your_score"
+			],
+			[
+				"yo",
+				"your_score"
+			],
+			[
 				"oper",
 				"operations"
 			],
 			[
 				"ope",
 				"operation"
-			],
-			[
-				"d",
-				"divide"
 			],
 			[
 				"m",
@@ -205,10 +229,17 @@
 	"expanded_folders":
 	[
 		"/Users/viren/Desktop/100DaysOfCode",
-		"/Users/viren/Desktop/100DaysOfCode/Day10"
+		"/Users/viren/Desktop/100DaysOfCode/Day10",
+		"/Users/viren/Desktop/100DaysOfCode/Day11",
+		"/Users/viren/Desktop/100DaysOfCode/Day2",
+		"/Users/viren/Desktop/100DaysOfCode/Day3",
+		"/Users/viren/Desktop/100DaysOfCode/Day4",
+		"/Users/viren/Desktop/100DaysOfCode/Day9"
 	],
 	"file_history":
 	[
+		"/Users/viren/Desktop/100DaysOfCode/Day11/art.py",
+		"/Users/viren/Desktop/100DaysOfCode/Day11/day-11-project.py",
 		"/Users/viren/Desktop/100DaysOfCode/Day10/day-10-project.py",
 		"/Users/viren/Desktop/100DaysOfCode/Day10/day-10-task-1.py",
 		"/Users/viren/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
